@@ -1,0 +1,15 @@
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\bin\Debug\net6.0\P3ProjektZal.exe
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\bin\Debug\net6.0\P3ProjektZal.deps.json
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\bin\Debug\net6.0\P3ProjektZal.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\bin\Debug\net6.0\P3ProjektZal.dll
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\bin\Debug\net6.0\P3ProjektZal.pdb
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.csproj.AssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.dll
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\refint\P3ProjektZal.dll
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.pdb
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\P3ProjektZal.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Pulpit\P3ProjektZal\P3ProjektZal\P3ProjektZal\obj\Debug\net6.0\ref\P3ProjektZal.dll

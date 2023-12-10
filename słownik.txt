@@ -1,0 +1,8 @@
+dom,house
+auto,car
+czerwony,red
+piwo,beer
+bluza,blouse
+myszka,mouse
+kabel,cable
+woda,water
